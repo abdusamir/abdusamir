@@ -26,8 +26,11 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
-![Gitlab](http://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerjr1&show_icons=true&hide_border=true)
 <!--
 **Sameerjr1/Sameerjr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
