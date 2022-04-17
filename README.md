@@ -30,7 +30,9 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerjr1&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerjr1&show_icons=true&hide_border=true&)
+
+![Profile views](https://gpvc.arturio.dev/Sameerjr1)
 <!--
 **Sameerjr1/Sameerjr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
