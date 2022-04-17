@@ -4,11 +4,13 @@
 #### 🌱 I’m currently learning React.JS and CI/CD
 #### 👯 I’m looking to collaborate on Web Development projects
 #### 💬 Ask me about TypeScript, Node.JS, or SQL 
-#### 📫 How to reach me: <a href="https://www.linkedin.com/in/abdulrahman-sameerjr/">
-  <img align="left" alt="Abdulrahman Ahmed" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-  </a>
-  <br>
+#### 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/abdulrahman-sameerjr/"><img align="left" alt="Abdulrahman Ahmed" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<br><br>
+
 ---
+
+
 ### Tools and technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
