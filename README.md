@@ -1,7 +1,7 @@
 ### Hi there I'm Abdelrahman Ahmed👋
 
-#### 🔭 I’m currently working on storefront backend using express PostgreSQL
-#### 🌱 I’m currently learning React.JS and CI/CD
+#### 🔭 I’m currently working in Web Development
+#### 🌱 I’m currently learning Redis and Message Queues
 #### 👯 I’m looking to collaborate on Web Development projects
 #### 💬 Ask me about TypeScript, Node.JS, or SQL 
 #### 📫 How to reach me: 
